@@ -1,0 +1,12 @@
+C:\Users\binyo\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csprojAssemblyReference.cache
+C:\Users\binyo\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.CoreCompileInputs.cache
+C:\Users\binyo\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe.config
+C:\Users\binyo\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.exe
+C:\Users\binyo\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\ConsoleApp22.pdb
+C:\Users\binyo\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\EntityFramework.dll
+C:\Users\binyo\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\binyo\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\EntityFramework.xml
+C:\Users\binyo\source\repos\ConsoleApp22\ConsoleApp22\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\binyo\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.csproj.CopyComplete
+C:\Users\binyo\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.exe
+C:\Users\binyo\source\repos\ConsoleApp22\ConsoleApp22\obj\Debug\ConsoleApp22.pdb
